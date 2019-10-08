@@ -1,0 +1,5 @@
+numpy
+PyYAML
+xlrd
+PyQt5
+matplotlib
